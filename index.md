@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+HELLO!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My name is Lucas Cabral but you can call me lurkers, I'm passionate about programming and technology in general.
+This blog will primarily be to talk about tech and games, maybe some updates about my career and my experiences.
